@@ -12,7 +12,7 @@ Please cite this work in your publications if it helps your research: <br />
 @InProceedings{Bazazian15, <br />
   author = {Bazazian, Dena and Casas, Josep R and Ruiz-Hidalgo, Javier}, <br />
   title = {Fast and Robust Edge Extraction in Unorganized Point Clouds}, <br />
-  booktitle = {Proceedings of International Confere on Digital Image Computing: Techniques and Applications (DICTA)}, <br />
+  booktitle = {Proceeding of International Confere on Digital Image Computing: Techniques and Applications (DICTA)}, <br />
   publisher = {IEEE}, <br />
   pages = {1-8}, <br />
   year = {2015} <br />
