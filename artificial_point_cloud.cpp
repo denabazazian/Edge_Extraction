@@ -1892,7 +1892,7 @@ float Xc = Scale;
 	  }
 
 	  //  // write point cloud to disk
-	  // pcl::io::savePCDFile ("/imatge/dbazazian/Image/Artificial Point Cloud/CubeCylinder2.pcd", *cloudCubeCylinder);
+	  // pcl::io::savePCDFile ("/Path/TO/ArtificialPointClouds/CubeCylinder2.pcd", *cloudCubeCylinder);
 	   //Write PLY
 	   pcl::PLYWriter writePLY;
 	   writePLY.write ("/Path/TO/ArtificialPointClouds/WedgeCylinder.ply", *cloud,  false);
@@ -4293,9 +4293,9 @@ main (int argc, char*argv[])
 	  pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud (new pcl::PointCloud<pcl::PointXYZRGBA>);
 	  pcl::PointCloud<pcl::PointXYZRGBA>::Ptr Noisycloud (new pcl::PointCloud<pcl::PointXYZRGBA>);
 
-      // pcl::io::loadPCDFile ("/imatge/dbazazian/Image/Artificial Point Cloud/OnePlane.pcd", *cloud);
-      // pcl::io::loadPCDFile ("/imatge/dbazazian/Image/Artificial Point Cloud/CubeSharpEdge.pcd", *cloud);
-      pcl::io::loadPCDFile ("/imatge/dbazazian/Image/Artificial Point Cloud/CubeFractal2.pcd", *cloud);
+      // pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/OnePlane.pcd", *cloud);
+      // pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/CubeSharpEdge.pcd", *cloud);
+      pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/CubeFractal2.pcd", *cloud);
 
       std::cout << "Number of points in the input cloud is:"<< cloud->points.size() << std::endl;
 
