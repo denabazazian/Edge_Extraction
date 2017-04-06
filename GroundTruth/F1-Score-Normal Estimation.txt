@@ -1,0 +1,427 @@
+************************************************************************************
+************************************************************************************
+*************** Cube 25 neighborhoo and 8 normalEstimation  ************************
+************************************************************************************
+************************************************************************************
+Number of points in the input cloud is:10086
+Number of points in the Edge Ground Truth cloud is:1452
+Number of points in the relevant location is:1878
+size of the relevant cloud is:1878
+Size of the Edge  cloud by clustering method is:  1982
+Numbers of True Positive  is:  1788
+Numbers of False Negative  is:  90
+Numbers of False Positive  is:  194
+Numbers of True Negative  is:  8014
+Numbers of Precision  is:  0.902119
+Numbers of Recall   is:  0.952077
+F1 Score of True Positive  is:  0.926425
+
+************************************************************************************
+************************************************************************************
+*************** Fractal1Staires 20 neighborhoo and 30` angle***********************
+************************************************************************************
+************************************************************************************
+Number of points in the Edge Ground Truth cloud is:2136
+Number of points in the Cube Input cloud is:3618
+Number of points in the relevant location is:1730
+size of the relevant cloud is:1730
+Numbers of Edge Points by clustering method is:  1884
+Size of the Edge  cloud by clustering method is:  1884
+Numbers of True Positive  is:  1632
+Numbers of False Negative  is:  98
+Numbers of False Positive  is:  252
+Numbers of True Negative  is:  1636
+Numbers of Precision  is:  0.866242
+Numbers of Recall   is:  0.943353
+F1 Score of True Positive  is:  0.903154
+
+************************************************************************************
+************************************************************************************
+*************** Fractal1Staires 20 neighborhoo and 5normalEstimation 40Degree ************************
+************************************************************************************
+************************** ground truth 0,65 ****************************************
+************************************************************************************
+Number of points in the input cloud is:3618
+Number of points in the Edge Ground Truth cloud is:2136
+Number of points in the relevant location is:1765
+size of the relevant cloud is:1765
+Size of the Edge  cloud by clustering method is:  1662
+Numbers of True Positive  is:  1530
+Numbers of False Negative  is:  235
+Numbers of False Positive  is:  132
+Numbers of True Negative  is:  1721
+Numbers of Precision  is:  0.920578
+Numbers of Recall   is:  0.866856
+F1 Score of True Positive  is:  0.892909
+
+
+
+************************************************************************************
+************************************************************************************
+*************** Fractal2Seat 20 neighborhoo and 30` angle***********************
+************************************************************************************
+************************************************************************************
+Number of points in the Edge Ground Truth cloud is:2121
+Number of points in the Cube Input cloud is:7212
+Number of points in the relevant location is:1869
+size of the relevant cloud is:1869
+Numbers of Edge Points by clustering method is:  2128
+Size of the Edge  cloud by clustering method is:  2128
+Numbers of True Positive  is:  1803
+Numbers of False Negative  is:  66
+Numbers of False Positive  is:  325
+Numbers of True Negative  is:  5018
+Numbers of Precision  is:  0.847274
+Numbers of Recall   is:  0.964687
+F1 Score of True Positive  is:  0.902177
+
+
+************************************************************************************
+************************************************************************************
+*************** Fractal1Staires 20 neighborhoo and 5normalEstimation 30Degree ************************
+************************************************************************************
+************************** ground truth 0,25 ****************************************
+************************************************************************************
+
+Number of points in the input cloud is:7212
+Number of points in the Edge Ground Truth cloud is:2121
+Number of points in the relevant location is:1869
+size of the relevant cloud is:1869
+Size of the Edge  cloud by clustering method is:  1865
+Numbers of True Positive  is:  1625
+Numbers of False Negative  is:  244
+Numbers of False Positive  is:  240
+Numbers of True Negative  is:  5103
+Numbers of Precision  is:  0.871314
+Numbers of Recall   is:  0.869449
+F1 Score of True Positive  is:  0.87038
+
+************************************************************************************
+************************************************************************************
+*************** Fractal3ThreeCube 20 neighborhoo and 30` angle***********************
+************************************************************************************
+************************************************************************************
+
+Number of points in the Edge Ground Truth cloud is:3636
+Number of points in the Cube Input cloud is:14418
+Number of points in the relevant location is:3456
+size of the relevant cloud is:3456
+Numbers of Edge Points by clustering method is:  3943
+Size of the Edge  cloud by clustering method is:  3943
+Numbers of True Positive  is:  3419
+Numbers of False Negative  is:  37
+Numbers of False Positive  is:  524
+Numbers of True Negative  is:  10438
+Numbers of Precision  is:  0.867106
+Numbers of Recall   is:  0.989294
+F1 Score of True Positive  is:  0.924179
+
+
+
+************************************************************************************
+************************************************************************************
+*************** Fractal3ThreeCube 20 neighborhoo and 5normalEstimation 30Degree ************************
+************************************************************************************
+************************** ground truth 0,325 ****************************************
+************************************************************************************
+Number of points in the input cloud is:14418
+Number of points in the Edge Ground Truth cloud is:3636
+Number of points in the relevant location is:3456
+size of the relevant cloud is:3456
+Size of the Edge  cloud by clustering method is:  3491
+Numbers of True Positive  is:  3204
+Numbers of False Negative  is:  252
+Numbers of False Positive  is:  287
+Numbers of True Negative  is:  10675
+Numbers of Precision  is:  0.917789
+Numbers of Recall   is:  0.927083
+F1 Score of True Positive  is:  0.922413
+
+************************************************************************************
+************************************************************************************
+*************** Fractal4ThreeCube 20 neighborhoo and 30` angle***********************
+************************************************************************************
+************************************************************************************
+Number of points in the Edge Ground Truth cloud is:2424
+Number of points in the Cube Input cloud is:7212
+Number of points in the relevant location is:2358
+size of the relevant cloud is:2358
+Numbers of Edge Points by clustering method is:  2302
+Size of the Edge  cloud by clustering method is:  2302
+Numbers of True Positive  is:  1913
+Numbers of False Negative  is:  445
+Numbers of False Positive  is:  389
+Numbers of True Negative  is:  4465
+Numbers of Precision  is:  0.831017
+Numbers of Recall   is:  0.811281
+F1 Score of True Positive  is:  0.82103
+
+
+************************************************************************************
+************************************************************************************
+*************** Fractal3ThreeCube 20 neighborhoo and 5normalEstimation 30Degree ************************
+************************************************************************************
+************************** ground truth 0,325 ****************************************
+************************************************************************************
+
+Number of points in the input cloud is:7212
+Number of points in the Edge Ground Truth cloud is:2424
+Number of points in the relevant location is:1926
+size of the relevant cloud is:1926
+Size of the Edge  cloud by clustering method is:  1948
+Numbers of True Positive  is:  1588
+Numbers of False Negative  is:  338
+Numbers of False Positive  is:  360
+Numbers of True Negative  is:  4926
+Numbers of Precision  is:  0.815195
+Numbers of Recall   is:  0.824507
+F1 Score of True Positive  is:  0.819824
+
+************************************************************************************
+************************************************************************************
+*************** Tetrahedron 20 neighborhoo and 30` angle***********************
+************************************************************************************
+************************************************************************************
+Number of points in the Edge Ground Truth cloud is:606
+Number of points in the Cube Input cloud is:15181
+Number of points in the relevant location is:2550
+size of the relevant cloud is:2550
+Numbers of Edge Points by clustering method is:  2678
+Size of the Edge  cloud by clustering method is:  2678
+Numbers of True Positive  is:  2018
+Numbers of False Negative  is:  532
+Numbers of False Positive  is:  660
+Numbers of True Negative  is:  11971
+Numbers of Precision  is:  0.753547
+Numbers of Recall   is:  0.791373
+F1 Score of True Positive  is:  0.771997
+
+
+************************************************************************************
+************************************************************************************
+*************** Fractal3ThreeCube 20 neighborhoo and 5normalEstimation 30Degree ************************
+************************************************************************************
+************************** ground truth 0,0190 ****************************************
+************************************************************************************
+Number of points in the input cloud is:15181
+Number of points in the Edge Ground Truth cloud is:606
+Number of points in the relevant location is:2550
+size of the relevant cloud is:2550
+Size of the Edge  cloud by clustering method is:  2887
+Numbers of True Positive  is:  2151
+Numbers of False Negative  is:  399
+Numbers of False Positive  is:  736
+Numbers of True Negative  is:  11895
+Numbers of Precision  is:  0.745064
+Numbers of Recall   is:  0.843529
+F1 Score of True Positive  is:  0.791245
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////TWO PLANE////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+************************************************************************************
+************************************************************************************
+*************** TwoPlane 90 Degree 25 neighborhoo and 8normalEstimation 40Degree ************************ 20
+************************************************************************************
+************************** ground truth 0,037 ****************************************
+************************************************************************************
+
+Number of points in the input cloud is:6002
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the relevant location is:203
+size of the relevant cloud is:203
+Size of the Edge  cloud by clustering method is:  195
+Numbers of True Positive  is:  182
+Numbers of False Negative  is:  21
+Numbers of False Positive  is:  13
+Numbers of True Negative  is:  5786
+Numbers of Precision  is:  0.933333
+Numbers of Recall   is:  0.896552
+F1 Score of True Positive  is:  0.914573
+************************************************************************************
+************************************************************************************
+*************** Two Plane 90 neighborhoo and 30` angle*********************** 20 
+************************************************************************************
+************************************************************************************
+
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the Cube Input cloud is:6002
+Number of points in the relevant location is:203
+size of the relevant cloud is:203
+Numbers of Edge Points by clustering method is:  219
+Size of the Edge  cloud by clustering method is:  219
+Numbers of True Positive  is:  194
+Numbers of False Negative  is:  9
+Numbers of False Positive  is:  25
+Numbers of True Negative  is:  5774
+Numbers of Precision  is:  0.885845
+Numbers of Recall   is:  0.955665
+F1 Score of True Positive  is:  0.919431
+
+
+************************************************************************************
+************************************************************************************
+*************** TwoPlane 22 Degree 25 neighborhoo and 8normalEstimation 40Degree ************************20
+************************************************************************************
+************************** ground truth 0,037 ****************************************
+************************************************************************************
+
+Number of points in the input cloud is:6002
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the relevant location is:212
+size of the relevant cloud is:212
+Size of the Edge  cloud by clustering method is:  480
+Numbers of True Positive  is:  163
+Numbers of False Negative  is:  49
+Numbers of False Positive  is:  317
+Numbers of True Negative  is:  5473
+Numbers of Precision  is:  0.339583
+Numbers of Recall   is:  0.768868
+F1 Score of True Positive  is:  0.471098
+************************************************************************************
+************************************************************************************
+*************** TwoPlane 22 Degree 16 neighborhoo and 8normalEstimation 10Degree ************************ 12
+************************************************************************************
+************************** ground truth 0,037 ****************************************
+************************************************************************************
+
+Number of points in the input cloud is:6002
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the relevant location is:215
+size of the relevant cloud is:215
+Size of the Edge  cloud by clustering method is:  284
+Numbers of True Positive  is:  171
+Numbers of False Negative  is:  44
+Numbers of False Positive  is:  113
+Numbers of True Negative  is:  5674
+Numbers of Precision  is:  0.602113
+Numbers of Recall   is:  0.795349
+F1 Score of True Positive  is:  0.685371
+
+************************************************************************************
+************************************************************************************
+*************** TwoPlane22   20 neighborhoo and 30` angle*********************** 20 
+************************************************************************************
+************************************************************************************
+
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the Cube Input cloud is:6002
+Number of points in the relevant location is:215
+size of the relevant cloud is:215
+Numbers of Edge Points by clustering method is:  559
+Size of the Edge  cloud by clustering method is:  559
+Numbers of True Positive  is:  215
+Numbers of False Negative  is:  0
+Numbers of False Positive  is:  344
+Numbers of True Negative  is:  5443
+Numbers of Precision  is:  0.384615
+Numbers of Recall   is:  1
+F1 Score of True Positive  is:  0.555556
+************************************************************************************
+************************************************************************************
+*************** TwoPlane22  12neighborhoo and 10` angle*********************** 12 
+************************************************************************************
+************************************************************************************
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the Cube Input cloud is:6002
+Number of points in the relevant location is:215
+size of the relevant cloud is:215
+Numbers of Edge Points by clustering method is:  401
+Size of the Edge  cloud by clustering method is:  401
+Numbers of True Positive  is:  213
+Numbers of False Negative  is:  2
+Numbers of False Positive  is:  188
+Numbers of True Negative  is:  5599
+Numbers of Precision  is:  0.531172
+Numbers of Recall   is:  0.990698
+F1 Score of True Positive  is:  0.691558
+
+
+
+************************************************************************************
+************************************************************************************
+*************** TwoPlane 67.5 Degree 25 neighborhoo and 8normalEstimation 40Degree ************************20
+************************************************************************************
+************************** ground truth 0,037 ****************************************
+************************************************************************************
+
+Number of points in the input cloud is:6002
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the relevant location is:216
+size of the relevant cloud is:216
+Size of the Edge  cloud by clustering method is:  213
+Numbers of True Positive  is:  197
+Numbers of False Negative  is:  19
+Numbers of False Positive  is:  16
+Numbers of True Negative  is:  5770
+Numbers of Precision  is:  0.924883
+Numbers of Recall   is:  0.912037
+F1 Score of True Positive  is:  0.918415
+
+************************************************************************************
+************************************************************************************
+*************** TwoPlane67.5   20 neighborhoo and 30` angle*********************** 20 
+************************************************************************************
+************************************************************************************
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the Cube Input cloud is:6002
+Number of points in the relevant location is:216
+size of the relevant cloud is:216
+Numbers of Edge Points by clustering method is:  227
+Size of the Edge  cloud by clustering method is:  227
+Numbers of True Positive  is:  202
+Numbers of False Negative  is:  14
+Numbers of False Positive  is:  25
+Numbers of True Negative  is:  5761
+Numbers of Precision  is:  0.889868
+Numbers of Recall   is:  0.935185
+F1 Score of True Positive  is:  0.911964
+
+
+************************************************************************************
+************************************************************************************
+*************** TwoPlane 45 Degree 16 neighborhoo and 8normalEstimation 20Degree ************************12
+************************************************************************************
+************************** ground truth 0,037 ****************************************
+************************************************************************************
+
+
+Number of points in the input cloud is:6002
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the relevant location is:192
+size of the relevant cloud is:192
+Size of the Edge  cloud by clustering method is:  213
+Numbers of True Positive  is:  143
+Numbers of False Negative  is:  49
+Numbers of False Positive  is:  70
+Numbers of True Negative  is:  5740
+Numbers of Precision  is:  0.671362
+Numbers of Recall   is:  0.744792
+F1 Score of True Positive  is:  0.706173
+
+
+************************************************************************************
+************************************************************************************
+*************** TwoPlane45   12 neighborhoo and 20` angle*********************** 20 
+************************************************************************************
+************************************************************************************
+
+Number of points in the Edge Ground Truth cloud is:801
+Number of points in the Cube Input cloud is:6002
+Number of points in the relevant location is:192
+size of the relevant cloud is:192
+Numbers of Edge Points by clustering method is:  245
+Size of the Edge  cloud by clustering method is:  245
+Numbers of True Positive  is:  185
+Numbers of False Negative  is:  7
+Numbers of False Positive  is:  60
+Numbers of True Negative  is:  5750
+Numbers of Precision  is:  0.755102
+Numbers of Recall   is:  0.963542
+F1 Score of True Positive  is:  0.846682
+
+
