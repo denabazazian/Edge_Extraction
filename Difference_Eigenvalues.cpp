@@ -52,11 +52,6 @@ main (int argc, char*argv[])
 	  // pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/IntersectionThreePlanes.pcd", *cloud);
 
 
-	 // pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/Bunny/bunnyEar.pcd", *cloud);
-	     // pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/Bunny/bunnyBody.pcd", *cloud);
-	    //pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/Bunny/bunnyFeetTail.pcd", *cloud);
-	   // pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/Bunny/bunnyHead.pcd", *cloud);
-
 	  // pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/AddingNoise/Bunny03Noise50.pcd", *cloud);
 	  pcl::io::loadPCDFile ("/Path/TO/ArtificialPointClouds/TetrahedronMultiple.pcd", *cloud);
 
