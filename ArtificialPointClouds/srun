@@ -1,0 +1,1 @@
+srun -p fast --mem 4000 
