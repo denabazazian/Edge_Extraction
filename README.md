@@ -8,7 +8,8 @@ Fast and Robust Edge Extraction in Unorganized Point Clouds (Dena Bazazian, Jose
 ## Code
 
 #### Python version
-* The ```Difference_Eigenvalues.py``` is a source code for extracting the edges of a point cloud based on Python 3 and [pyntcloud](https://github.com/daavoo/pyntcloud) library. Installation is based on ```conda install pyntcloud -c conda-forge``` or ```pip install pyntcloud```. <br />
+* ```Difference_Eigenvalues.py``` is a source code for extracting the edges of a point cloud based on Python 3 and [pyntcloud](https://github.com/daavoo/pyntcloud) library. <br />
+* Installation is based on ```conda install pyntcloud -c conda-forge``` or ```pip install pyntcloud```. <br />
 
 
 #### C++ version
