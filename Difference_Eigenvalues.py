@@ -81,7 +81,7 @@ pcd_pd['red'] = sigma_value.astype(np.uint8)
 pcd_points = PyntCloud(pcd_pd)
 edge_points = PyntCloud(pd.DataFrame(data=edge_np,columns=clmns))
 
-# pcd.pcd_points.plot()
+# pcd_points.plot()
 # edge_points.plot()
 
 PyntCloud.to_file(pcd_points,output_dir+'pointcloud_edges.ply')   # Save the whole point cloud by painting the edge points
