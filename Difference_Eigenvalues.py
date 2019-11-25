@@ -10,7 +10,7 @@ import pdb
 pcd1 = PyntCloud.from_file("/ArtificialPointClouds/bunny.pcd")
 #pcd1 = PyntCloud.from_file("/TetrahedronMultiple.pcd")
 #pcd1 = PyntCloud.from_file("/ArtificialPointClouds/CubeFractal2.pcd")
-output_dir = "/detected_edge/"
+output_dir = "./detected_edge/"
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
@@ -19,7 +19,7 @@ if not os.path.exists(output_dir):
 k_n = 50
 thresh = 0.03
 
-pcd_np = np.zeros((len(pcd1_points),6))
+pcd_np = np.zeros((len(pcd1.points),6))
 
 # find neighbors
 kdtree_id = pcd1.add_structure("kdtree")
