@@ -1,7 +1,7 @@
 # Edge_Extraction
 Fast and robust algorithm to extract edges in unorganized point clouds.
 
-Source code and the dataset of this [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.4058&rep=rep1&type=pdf ): <br />
+Source code and the dataset of this [paper](https://www.researchgate.net/profile/Dena_Bazazian/publication/304288759_Fast_and_Robust_Edge_Extraction_in_Unorganized_Point_Clouds/links/5ec5733f299bf1c09acf9283/Fast-and-Robust-Edge-Extraction-in-Unorganized-Point-Clouds.pdf ): <br />
 Fast and Robust Edge Extraction in Unorganized Point Clouds (Dena Bazazian, Josep R Casas, Javier Ruiz-Hidalgo) - DICTA2015 <br />
 <br />
 
